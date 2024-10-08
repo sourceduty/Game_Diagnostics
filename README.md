@@ -10,7 +10,7 @@ Beyond analysis, Game Diagnostics is also equipped to troubleshoot common techni
 
 #
 
-![Retro Arcade Style Xbox Controller](https://github.com/user-attachments/assets/ead169a0-9a19-4f9c-8796-c905a92cb117)
+![Retro Arcade Style Xbox Controller](https://github.com/user-attachments/assets/9ae98fc2-6935-46b4-a556-e890cc07748b)
 
 #
 ### Related Links
